@@ -56,18 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Four-O-Foured&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Akshat's Github Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Four-O-Foured&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Akshat's Streak" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Four-O-Foured&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180"/>
-</div>
-
----
 
 ### 🤝 Let's Connect
 
