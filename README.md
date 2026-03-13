@@ -5,7 +5,6 @@
 
   <p align="center">
     I build accessible, pixel-perfect, and performant web applications with a focus on <b>Generative AI</b> integration. <br>
-    I'm currently building <b><a href="https://github.com/Four-O-Foured/SnapNotes">SnapNotes</a></b> and exploring <b>Go (Golang)</b>.
   </p>
 
   <p align="center">
